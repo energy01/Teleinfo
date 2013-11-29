@@ -18,6 +18,12 @@
 
 [Cliquer pour visualiser](https://github.com/BmdOnline/Teleinfo/raw/master/screenshots/teleinfov4_all.png)
 
+###Version 4.1 (energy01)
+* Merge avec la version 3 que j'avais difusée et la version 4 
+* Gérer les requêtes mysql dans un fichier dédié "config.php"
+* Début gestion autres "type" que "base" ou "HC/HP"
+* Ajout de la gauge de l'intensité instantanée.
+
 ###Version 4
 * Ajout de la gauge de consommation instantanée.
 * Ajout des boutons de navigation dans l'histogramme :
